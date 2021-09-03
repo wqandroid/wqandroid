@@ -1,5 +1,5 @@
 
-![王琼的 GitHub stats](https://github-readme-stats.vercel.app/api?username=wqandroid&show_icons=true&theme=radical)
+![王琼的 GitHub stats](https://github-readme-stats.vercel.app/api?username=wqandroid&show_icons=true&theme=radical&bg_color=30,e96443,904e95)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqandroid&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
