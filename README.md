@@ -1,7 +1,6 @@
+![王琼的 GitHub stats](https://github-readme-stats.vercel.app/api?username=wqandroid&theme=blueberry&show_icons=true)
 
-![王琼的 GitHub stats](https://github-readme-stats.vercel.app/api?username=wqandroid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqandroid&show_icons=true&bg_color=30,e96443,904e95&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wqandroid&theme=blueberry&icon_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
