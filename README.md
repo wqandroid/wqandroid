@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-程序员-🍼奶爸 Android/Flutter。
+程序员-🍼奶爸 Android/Kotlin/Flutter。
 
 
 
